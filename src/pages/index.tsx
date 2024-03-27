@@ -1,4 +1,4 @@
-import Hero from '@/components/home.tsx';
+import Hero from "@component/components/home";
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
